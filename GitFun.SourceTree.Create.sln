@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitFun.SourceTree.Create", "GitFun.SourceTree.Create\GitFun.SourceTree.Create.csproj", "{04B0B9DA-2609-4695-806B-FB77D0233DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B0B9DA-2609-4695-806B-FB77D0233DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B0B9DA-2609-4695-806B-FB77D0233DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B0B9DA-2609-4695-806B-FB77D0233DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B0B9DA-2609-4695-806B-FB77D0233DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1B3B75F-E3DF-41F4-A1E4-4006FCBD2CC7}
+	EndGlobalSection
+EndGlobal
