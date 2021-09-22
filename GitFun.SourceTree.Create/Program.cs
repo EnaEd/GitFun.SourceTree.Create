@@ -7,7 +7,7 @@ namespace GitFun.SourceTree.Create
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("For fet");
+            Console.WriteLine("revert");
         }
     }
 }
